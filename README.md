@@ -9,7 +9,6 @@ A Python IoT pipeline that reads real industrial energy data (voltage, current, 
 ### what you need installed
 - Python 3.10+
 - PostgreSQL 17
-- Mosquitto
 
 ### install python packages
 ```
